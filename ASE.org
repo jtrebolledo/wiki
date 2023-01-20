@@ -1,4 +1,4 @@
-#+TITLE: Atomic Simulation Environment (ASE) INSTALLATION
+#+TITLE: Atomic Simulation Environment (ASE) Installation
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [12pt]
 #+OPTIONS: toc:nil ^:{}
@@ -24,11 +24,10 @@
 #+LATEX_HEADER: \usepackage{setspace}
 #+LATEX_HEADER: \usepackage[linktocpage, pdfstartview=FitH, colorlinks, linkcolor=blue, anchorcolor=blue, citecolor=blue,  filecolor=blue,  menucolor=blue,  urlcolor=blue]{hyperref}
 #+LATEX_HEADER: \usepackage{mdframed}
-\doublespace
+
 
 
 #+AUTHOR: Jeonghyun Ko, Jerry Crum
-\maketitle
 
 * Requirements
 ** Python 2.7, 3.4-3.7 
